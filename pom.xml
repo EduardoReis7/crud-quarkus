@@ -52,6 +52,10 @@
             <artifactId>quarkus-arc</artifactId>
         </dependency>
         <dependency>
+            <groupId>io.smallrye</groupId>
+            <artifactId>smallrye-health</artifactId>
+        </dependency>
+        <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-resteasy</artifactId>
         </dependency>
